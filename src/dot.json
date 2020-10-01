@@ -1,0 +1,42 @@
+[
+    {
+      "name": "Vancouver Island, British Columbia",
+      "lat": 50.715841,
+      "lng": -127.488672
+    },
+    {  
+      "name": "Sudo Farms",
+      "lat": 49.737515,
+      "lng": -112.691126
+    },
+    {
+      "name": "Sunfresh Farms",
+      "lat":53.548389,  
+      "lng": -113.622611
+    },
+    {
+      "name": "Botanical Specialties",
+      "lat":49.003071,
+      "lng": -122.073970
+    },
+    {
+      "name": "Champion Pets Foods Northstar Kitchen",
+      "lat":53.528179,
+      "lng": -113.763835
+    },
+    {
+      "name": "Champion Pets foods",
+      "lat":53.524193, 
+      "lng": -113.764022
+    },
+    {
+      "name": "Global Pet Foods",
+      "lat": 43.771378, 
+      "lng": -79.253110
+    },
+    {
+      "name": "home",
+      "lat": 43.773259,
+      "lng": -79.255279
+    }
+]
