@@ -5,8 +5,6 @@ import dotjson from './dot.json';
 import linejson from './line.json';
 
 const mapboxgl = require('mapbox-gl/dist/mapbox-gl.js');
-//mapboxgl.accessToken =
-  'pk.eyJ1IjoibHp4dWUiLCJhIjoiYnhfTURyRSJ9.Ugm314vAKPHBzcPmY1p4KQ';
 mapboxgl.accessToken =
   'pk.eyJ1Ijoib2xpdmlhd3UiLCJhIjoiY2tmcHZyM2E0MmZ3dTJ1cG03Nm9qcWJveiJ9.1O3xj4LbrIeOk4Plyif1qQ';
 const map = new mapboxgl.Map({
